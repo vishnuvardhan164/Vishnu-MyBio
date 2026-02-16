@@ -38,9 +38,9 @@ AWS (EC2, S3) • Docker • Git • Linux
 
 ## 📫 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-💼 LinkedIn: https://www.linkedin.com/in/your-link  
-🌎 Location: United States  
+📧 Email: saivishnukatroju@gmail.com 
+💼 LinkedIn: [hww.linkedin.com/in/your-link  ttps://w](https://www.linkedin.com/in/sai-vishnu-katroju-5299441a4/)
+🌎 Location: Houston, Texas, United States
 
 ---
 
